@@ -10,7 +10,7 @@ import org.junit.runners.Parameterized;
 public class IngredientTest {
 
     private Ingredient ingredientTest; 
-    public IngredientType type = IngredientType.SAUCE;
+    private IngredientType type = IngredientType.SAUCE;
     public final String nameTest = "nameTest";
     public final float priceTest = 10.0f;
 

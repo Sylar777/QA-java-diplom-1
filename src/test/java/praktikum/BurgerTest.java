@@ -9,7 +9,7 @@ import org.junit.Test;
 
 public class BurgerTest {
 
-    Burger burger;
+    private Burger burger;
     private List<Ingredient> ingredients;
     private final List<Ingredient> ingredientData = Arrays.asList(
         new Ingredient(IngredientType.SAUCE, "sour cream", 200),
