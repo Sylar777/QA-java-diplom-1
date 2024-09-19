@@ -1,4 +1,4 @@
-# Diploma Project: Java Automation Testing (part №1)
+# Diploma Project (part №1): Java Automation Testing 
 
 ## Overview
 This project demonstrates the implementation of unit tests in a Java application using **JUnit 4**, **Mockito**, and **Jacoco**. The goal is to ensure comprehensive testing with a minimum of 70% code coverage for key business logic in the `Bun`, `Burger`, `Ingredient`, and `IngredientType` classes.
